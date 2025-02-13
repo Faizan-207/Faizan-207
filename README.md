@@ -23,11 +23,11 @@ I'm a passionate **Computer Science** student, aspiring to become a **Full Stack
 <div align="center">
 
 <a href="https://github.com/Faizan-207">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Faizan-207&show_icons=true&theme=tokyonight&cache_seconds=30" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=Faizan-207&show_icons=true&theme=tokyonight&cache_seconds=30" />
 </a>
 
 <a href="https://github.com/Faizan-207">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-207&theme=tokyonight&hide_border=false" />
+  <img height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-207&theme=tokyonight&hide_border=false" />
 </a>
 
 </div>
