@@ -20,8 +20,13 @@ I'm a passionate **Computer Science** student, aspiring to become a **Full Stack
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faizan-207&show_icons=true&theme=tokyonight&cache_seconds=30)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Faizan-207&theme=tokyonight&hide_border=false)
+
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=Faizan-207&theme=tokyonight)
 
 
 ## 🌐 Connect with Me
