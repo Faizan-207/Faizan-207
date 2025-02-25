@@ -11,12 +11,7 @@ I'm a passionate **Computer Science** student, aspiring to become a **Full Stack
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I enjoy solving coding challenges and exploring new frameworks.**
 
-## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, Bootstrap, JavaScript\
-**Backend:** PHP\
-**Database:** MySQL\
-**Tools:** Git, VS Code, Figma
 
 ## 📊 GitHub Stats
 
