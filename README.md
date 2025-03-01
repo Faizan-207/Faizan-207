@@ -5,9 +5,9 @@
 💻 **Aspiring Full Stack Developer** passionate about 🌐 **Web Development**, 🎨 **UI/UX Design**, and 🛠️ **Software Engineering**.  
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_ali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-ali)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@faizan-ali)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faizan_ali) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-ali) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@faizan-ali) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizanakmal207@gmail.com)
 
 ---
@@ -25,11 +25,11 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-207&theme=radical&hide_border=false" width="91%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan-207&theme=blue-green&hide_border=false" width="85%" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-207&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-207&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="39.44%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan-207&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan-207&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="35%" />
 </div>
 
 ---
@@ -37,4 +37,5 @@
 [![](https://visitcount.itsvg.in/api?id=Faizan-207&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
