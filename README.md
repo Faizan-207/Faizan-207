@@ -1,4 +1,4 @@
-# <div align="center"><span style="color: #00BFFF;">Faizan Ali</span> ✨</div>
+# <div align="center"><span style="color: #00BFFF;">Faizan Ali</span> </div>
 
 ## 🌟 About Me:
 🎓 **Computer Science (BSCS) Student**  
